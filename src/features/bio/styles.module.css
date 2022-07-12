@@ -1,4 +1,4 @@
-.bioContainer {
+/* .bioContainer {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -58,7 +58,7 @@
   font-size: 1.4rem;
 } */
 
-.botonBioActivo:hover,
+/* .botonBioActivo:hover,
 .botonBioInactivo:hover {
   cursor: pointer;
-}
+} */ 
